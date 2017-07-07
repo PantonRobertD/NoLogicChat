@@ -130,7 +130,6 @@ include('chatfiles/setchat.php');
 		<td alt=" Sound On/Off " title=" Sound On/Off " style="cursor:pointer" onclick="setPlayBeep(playbeep)" onMouseOver="this.style.background='#8598C0'" onMouseOut="this.style.background=''" width="60"><img src="sound/playbeep2.png" align="absmiddle" height="23" border="0"  name="playbeep" id="playbeep" /><span id="chatbeep"></span></td>
 		<td alt=" go Offline " title=" go Offline " style="cursor:pointer" onclick="delCookie('name_c')" onMouseOver="this.style.background='#8598C0'" onMouseOut="this.style.background=''" align="center" width="60"><img src="images/offline.png"   height="27"  border="0" align="absmiddle"/></td>
 		<td alt=" Delete all Messages " title=" Delete all Messages " id="empty" style="cursor:pointer" onMouseOver="this.style.background='#8598C0'" onMouseOut="this.style.background=''" align="center" width="60"><img src="images/trashcan.png"  height="25"   border="0" align="absmiddle" /></td>
-		<td alt=" Upload Image " title=" Upload Image " id="searchlink" rel="subcontent" style="cursor:pointer" onMouseOver="this.style.background='#8598C0'" onMouseOut="this.style.background=''" align="center" width="60"><img src="images/upload.png" align="absmiddle"  border="0" height="27" /></td>
 		
 		<td width="140">&nbsp;</td>
 		
