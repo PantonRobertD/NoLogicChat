@@ -5,7 +5,7 @@ overflow-y: scroll;
 }
 
 body {
-background-image:url('../images/wood-bg.jpg');
+background-image:url('../images/background.jpg');
 //background: #DBE5EE;
 text-align: center;
 }
@@ -18,7 +18,7 @@ list-style-image:url('../images/menu20.gif');
 #main {
     margin: auto;
 	border: 1px solid #cccccc;
-	width: 780px;
+	width: 550px;
     min-height:150px;
 	background: #E9E9E9;
     font-family: Arial, Helvetica, sans-serif;
@@ -30,7 +30,7 @@ list-style-image:url('../images/menu20.gif');
 #mainfront {
     margin: auto;
 	border: 1px solid #cccccc;
-	width: 778px;
+	width: 548px;
     min-height:150px;
 	background: #DDDBD7;
     font-family: Arial, Helvetica, sans-serif;
@@ -49,7 +49,7 @@ list-style-image:url('../images/menu20.gif');
 
 #chatarea {
  margin:-7px auto 3px auto;
- width:780px;
+ width:550px;
  position:relative;
  background-color:#DDDBD7;
  border:1px solid silver;
@@ -61,7 +61,7 @@ list-style-image:url('../images/menu20.gif');
 
 #chatareafront {
  margin:2px auto;
- width:780px;
+ width:550px;
  position:relative;
  background-color:#DDDBD7;
  border:1px solid silver;
@@ -87,14 +87,14 @@ list-style-image:url('../images/menu20.gif');
 
 #chatrooms {
  margin:2px 2px 2px 2px;
- width:776px;
+ width:546px;
  border-radius: 7px 7px 0 0; 
  
 }
 
 #chatroomsfront {
  margin:2px 2px 2px 2px;
- width:776px;
+ width:546px;
  border-radius: 7px 7px 0 0; 
  
 }
@@ -106,7 +106,7 @@ list-style-image:url('../images/menu20.gif');
 
 #chatrooms .chatroom {
  margin-right:3px;
- margin-left:4px;
+ margin-left:20px;
  border-top:1px solid #AAAAFE;
  border-right:1px solid #AAAAFE;
  border-left:1px solid #AAAAFE;
@@ -205,7 +205,7 @@ text-align:center;
 
 #chats {
  margin:2px 1px -10px 2px;
- width:635px;
+ width:405px;
  height:430px;
  border:1px solid #aaaafe;
  background-color:#fdfdfe;
@@ -324,6 +324,7 @@ color:blue;
 #adchat {
  border:solid 1px #8D8D8D;
  height:22px;
+ width:545px;
  background-color:#F7F7F7;
  color:#3F3F3F;
  font-size:12px;
