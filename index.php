@@ -182,7 +182,7 @@ function closeHelpDiv3(){
 
 <div id="chatareafront">
  <div align="left" id="chatroomsfront" style=" background-color:#6E84B4">
- <div style="height:40px">&nbsp;&nbsp;<font size="5" color="#F1F1F1" face="Arial, Helvetica, sans-serif"><img src="images/chaticon1.png" height="37" align="absmiddle"  border="0"/>&nbsp;&nbsp;<b>NedChat</b></font></div>
+ <div style="height:40px">&nbsp;&nbsp;<font size="5" color="#F1F1F1" face="Arial, Helvetica, sans-serif"><img src="images/chaticon1.png" height="37" align="absmiddle"  border="0"/>&nbsp;&nbsp;<b>NoLogic Radio</b></font></div>
 
  </div>
  
@@ -191,7 +191,7 @@ function closeHelpDiv3(){
  
  
 <div id="mainfront">
-      <div align="center" id="caption"><img src="images/chaticon128.png" height="80" align="absmiddle">&nbsp; NedChat!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+      <div align="center" id="caption"><img src="images/chaticon128.png" height="80" align="absmiddle">&nbsp; NoLogic Radio!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
 	   <span align="right" id="helpdiv3" style="display:none; margin-top:-40px; padding-left:270px; position:absolute;"><img src="images/tooltip4.gif"></span>
       <form action="chat.php" method="post" name="repo" onSubmit="javascript: return validate(this);">
         <table align="center" width="100%">
