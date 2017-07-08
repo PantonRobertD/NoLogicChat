@@ -37,6 +37,8 @@ ob_start();
 <script type="text/javascript" src="js/animatedcollapse.js"></script>
 <script type="text/javascript" src="draw/signature.js"></script>
 <script type="text/javascript" src="js/alert-main.js"></script>
+<script type="text/javascript" src="js/prof/jquery.profanityfilter.js"></script>
+
 <link rel="stylesheet" type="text/css" href="js/alert-style.css" />
 
 
@@ -129,7 +131,6 @@ include('chatfiles/setchat.php');
 		<td width="220">&nbsp;&nbsp;<img src="images/chaticon1.png" height="37" align="absmiddle"  border="0"/>&nbsp;&nbsp;<font size="5" color="#DADADA" face="Arial, Helvetica, sans-serif"><b>NoLogic</b></font></td>
 		<td alt=" Sound On/Off " title=" Sound On/Off " style="cursor:pointer" onclick="setPlayBeep(playbeep)" onMouseOver="this.style.background='#8598C0'" onMouseOut="this.style.background=''" width="60"><img src="sound/playbeep2.png" align="absmiddle" height="23" border="0"  name="playbeep" id="playbeep" /><span id="chatbeep"></span></td>
 		<td alt=" go Offline " title=" go Offline " style="cursor:pointer" onclick="delCookie('name_c')" onMouseOver="this.style.background='#8598C0'" onMouseOut="this.style.background=''" align="center" width="60"><img src="images/offline.png"   height="27"  border="0" align="absmiddle"/></td>
-		<td alt=" Delete all Messages " title=" Delete all Messages " id="empty" style="cursor:pointer" onMouseOver="this.style.background='#8598C0'" onMouseOut="this.style.background=''" align="center" width="60"><img src="images/trashcan.png"  height="25"   border="0" align="absmiddle" /></td>
 		
 		<td width="140">&nbsp;</td>
 		
@@ -202,19 +203,7 @@ include('chatfiles/setchat.php');
 		});
 		});
 					
-	});
-	
-	$(document).ready( function() {
-						
-		$("td#empty").click( function() {
-			jConfirm('All posts from the Chat will be deleted.<br>Are you sure?<br>&nbsp;', 'Message',
-			function (r) {
-                    if( r )
-                     $('#content3').load('chatfiles/emptychat.php');
-					  
-		});
-		});
-					
+	});				
 	});
 		
 </script>
