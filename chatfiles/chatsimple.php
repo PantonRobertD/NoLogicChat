@@ -191,7 +191,9 @@ class ChatSimple {
 		 $adchat = str_replace('*d6*','<img src="images/smile/d6.gif">',$adchat);
          $adchat = str_replace('*d7*','<img src="images/smile/d7.gif">',$adchat);
          $adchat = str_replace('*d8*','<img src="images/smile/d8.gif">',$adchat);
-		
+         $adchat = str_replace('*n1*','<img src="images/smile/n1.gif">',$adchat);
+
+
 		
         if(get_magic_quotes_gpc()) $adchat = stripslashes($adchat);     // Removes slashes added by get_magic_quotes_gpc
 

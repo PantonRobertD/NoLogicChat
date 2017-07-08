@@ -210,6 +210,7 @@ if(defined('CHATUSER')) {
 <img src="images/smile/d5.gif" onClick="addSmile('*d5*', 'adchat')" />
 <img src="images/smile/d6.gif" onClick="addSmile('*d6*', 'adchat')" />
 <img src="images/smile/d7.gif" onClick="addSmile('*d7*', 'adchat')" />
+<img src="images/smile/n1.gif" onClick="addSmile('*n1*', 'adchat')" />
 </span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
    
