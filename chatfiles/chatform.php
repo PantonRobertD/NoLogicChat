@@ -200,17 +200,45 @@ if(defined('CHATUSER')) {
 <img src="images/smile/b8.gif" onClick="addSmile('*b8*', 'adchat')" />
 <img src="images/smile/ca.gif" onClick="addSmile('*b4*', 'adchat')" />
 <img src="images/smile/aw.gif" onClick="addSmile('*b6*', 'adchat')" />
-<img src="images/smile/c2.gif" onClick="addSmile('*c2*', 'adchat')" /><br>
+<img src="images/smile/c2.gif" onClick="addSmile('*c2*', 'adchat')" />
 <img src="images/smile/c8.gif" onClick="addSmile('*c8*', 'adchat')" />
 <img src="images/smile/c9.gif" onClick="addSmile('*c9*', 'adchat')" />
 <img src="images/smile/d1.gif" onClick="addSmile('*d1*', 'adchat')" />
 <img src="images/smile/d2.gif" onClick="addSmile('*d2*', 'adchat')" />
-<img src="images/smile/d3.gif" onClick="addSmile('*d3*', 'adchat')" /><br>
+<img src="images/smile/d3.gif" onClick="addSmile('*d3*', 'adchat')" />
 <img src="images/smile/d4.gif" onClick="addSmile('*d4*', 'adchat')" />
 <img src="images/smile/d5.gif" onClick="addSmile('*d5*', 'adchat')" />
 <img src="images/smile/d6.gif" onClick="addSmile('*d6*', 'adchat')" />
 <img src="images/smile/d7.gif" onClick="addSmile('*d7*', 'adchat')" />
 <img src="images/smile/n1.gif" onClick="addSmile('*n1*', 'adchat')" />
+<img src="images/smile/n2.gif" onClick="addSmile('*n2*', 'adchat')" />
+<img src="images/smile/l1.gif" onClick="addSmile('*l1*', 'adchat')" />
+<img src="images/smile/l2.gif" onClick="addSmile('*l2*', 'adchat')" />
+<img src="images/smile/l3.gif" onClick="addSmile('*l3*', 'adchat')" />
+<img src="images/smile/l4.gif" onClick="addSmile('*l4*', 'adchat')" />
+<img src="images/smile/l5.gif" onClick="addSmile('*l5*', 'adchat')" />
+<img src="images/smile/l6.gif" onClick="addSmile('*l6*', 'adchat')" />
+<img src="images/smile/l8.gif" onClick="addSmile('*l8*', 'adchat')" />
+<img src="images/smile/l7.gif" onClick="addSmile('*l7*', 'adchat')" />
+<img src="images/smile/l9.gif" onClick="addSmile('*l9*', 'adchat')" />
+<img src="images/smile/l10.gif" onClick="addSmile('*l10*', 'adchat')" />
+<img src="images/smile/l11.gif" onClick="addSmile('*l11*', 'adchat')" />
+<img src="images/smile/l12.gif" onClick="addSmile('*l12*', 'adchat')" />
+<img src="images/smile/l13.gif" onClick="addSmile('*l13*', 'adchat')" />
+<img src="images/smile/l14.gif" onClick="addSmile('*l14*', 'adchat')" />
+<img src="images/smile/l15.gif" onClick="addSmile('*l15*', 'adchat')" />
+<img src="images/smile/l16.gif" onClick="addSmile('*l16*', 'adchat')" />
+<img src="images/smile/l17.gif" onClick="addSmile('*l17*', 'adchat')" />
+<img src="images/smile/l18.gif" onClick="addSmile('*l18*', 'adchat')" />
+<img src="images/smile/l19.gif" onClick="addSmile('*l19*', 'adchat')" />
+<img src="images/smile/l20.gif" onClick="addSmile('*l20*', 'adchat')" />
+<img src="images/smile/l21.gif" onClick="addSmile('*l21*', 'adchat')" />
+<img src="images/smile/l22.gif" onClick="addSmile('*l22*', 'adchat')" />
+<img src="images/smile/l23.gif" onClick="addSmile('*l23*', 'adchat')" />
+<img src="images/smile/l24.gif" onClick="addSmile('*l24*', 'adchat')" />
+<img src="images/smile/l25.gif" onClick="addSmile('*l25*', 'adchat')" />
+<img src="images/smile/l26.gif" onClick="addSmile('*l26*', 'adchat')" />
+
 </span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
    

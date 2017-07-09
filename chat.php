@@ -113,6 +113,12 @@ function closechat()
 				if ($avatar == '29'){$avatar = "<img src=\"images/ava/ava29.jpg\">";}
 				if ($avatar == '30'){$avatar = "<img src=\"images/ava/ava30.jpg\">";}
 				if ($avatar == '31'){$avatar = "<img src=\"images/ava/ava31.jpg\">";}
+	   			if ($avatar == '32'){$avatar = "<img src=\"images/ava/ava32.jpg\">";}
+	  			if ($avatar == '33'){$avatar = "<img src=\"images/ava/ava33.jpg\">";}
+      				if ($avatar == '34'){$avatar = "<img src=\"images/ava/ava34.jpg\">";}
+	  			if ($avatar == '35'){$avatar = "<img src=\"images/ava/ava35.jpg\">";}
+	  			if ($avatar == '36'){$avatar = "<img src=\"images/ava/ava36.jpg\">";}
+	  			if ($avatar == '37'){$avatar = "<img src=\"images/ava/ava37.jpg\">";}
 			}
 
 			$avadecode = htmlentities($avatar);
@@ -145,7 +151,6 @@ function closechat()
 			<a href="javascript:dropdowncontent.hidediv('subcontent')"><img src="images/close-icon1.png" border="0" width="24"></a>
 		</div>
 	</DIV>
- 
  	<div id="chatwindow">
 		<table border="0" width="100%">
 			<tr>
@@ -166,6 +171,7 @@ function closechat()
 			</tr>
 		</table>
 	</div>
+	<div style="display:none"  id="content3"></div>
 
 	<!-- Lower Chat Region for emojis, and chat functions -->
 	<div id="chatfunctions" style=" height:160px"><?php echo $chatS->chatForm().jsTexts($lsite); ?></div>

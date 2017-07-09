@@ -115,6 +115,12 @@ if(document.getElementById('1').checked) {
       } else if(document.getElementById('29').checked) {
 	  } else if(document.getElementById('30').checked) {
 	   } else if(document.getElementById('31').checked) {
+	   	 } else if(document.getElementById('32').checked) {
+      } else if(document.getElementById('33').checked) {
+	   } else if(document.getElementById('34').checked) {
+      } else if(document.getElementById('35').checked) {
+	  } else if(document.getElementById('36').checked) {
+	   } else if(document.getElementById('37').checked) {
 	  
       } else {
 	  

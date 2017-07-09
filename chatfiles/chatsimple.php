@@ -192,6 +192,33 @@ class ChatSimple {
          $adchat = str_replace('*d7*','<img src="images/smile/d7.gif">',$adchat);
          $adchat = str_replace('*d8*','<img src="images/smile/d8.gif">',$adchat);
          $adchat = str_replace('*n1*','<img src="images/smile/n1.gif">',$adchat);
+         $adchat = str_replace('*n2*','<img src="images/smile/n2.gif">',$adchat);
+         $adchat = str_replace('*l1*','<img src="images/smile/l1.gif">',$adchat);
+         $adchat = str_replace('*l2*','<img src="images/smile/l2.gif">',$adchat);
+         $adchat = str_replace('*l3*','<img src="images/smile/l3.gif">',$adchat);
+         $adchat = str_replace('*l4*','<img src="images/smile/l4.gif">',$adchat);
+         $adchat = str_replace('*l5*','<img src="images/smile/l5.gif">',$adchat);
+		 $adchat = str_replace('*l6*','<img src="images/smile/l6.gif">',$adchat);
+		 $adchat = str_replace('*l7*','<img src="images/smile/l7.gif">',$adchat);
+		 $adchat = str_replace('*l8*','<img src="images/smile/l8.gif">',$adchat);
+		 $adchat = str_replace('*l9*','<img src="images/smile/l9.gif">',$adchat);
+         $adchat = str_replace('*l10*','<img src="images/smile/l10.gif">',$adchat);
+		 $adchat = str_replace('*l11*','<img src="images/smile/l11.gif">',$adchat);
+		 $adchat = str_replace('*l12*','<img src="images/smile/l12.gif">',$adchat);
+		 $adchat = str_replace('*l13*','<img src="images/smile/l13.gif">',$adchat);
+         $adchat = str_replace('*l14*','<img src="images/smile/l14.gif">',$adchat);
+         $adchat = str_replace('*l15*','<img src="images/smile/l15.gif">',$adchat);
+         $adchat = str_replace('*l16*','<img src="images/smile/l16.gif">',$adchat);
+         $adchat = str_replace('*l17*','<img src="images/smile/l17.gif">',$adchat);
+         $adchat = str_replace('*l18*','<img src="images/smile/l18.gif">',$adchat);
+         $adchat = str_replace('*l19*','<img src="images/smile/l19.gif">',$adchat);
+		 $adchat = str_replace('*l20*','<img src="images/smile/l20.gif">',$adchat);
+		 $adchat = str_replace('*l21*','<img src="images/smile/l21.gif">',$adchat);
+		 $adchat = str_replace('*l22*','<img src="images/smile/l22.gif">',$adchat);
+		 $adchat = str_replace('*l23*','<img src="images/smile/l23.gif">',$adchat);
+         $adchat = str_replace('*l24*','<img src="images/smile/l24.gif">',$adchat);
+		 $adchat = str_replace('*l25*','<img src="images/smile/l25.gif">',$adchat);
+		 $adchat = str_replace('*l26*','<img src="images/smile/l26.gif">',$adchat);
 
 
 		
