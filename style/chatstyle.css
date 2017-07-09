@@ -383,7 +383,7 @@ color:#bcdeff;
 a.tooltip1 span {display:none; padding:1px; margin-left:-50px; margin-top:-10px; text-decoration:none; outline:none;}
 a.tooltip1:hover span{display:inline; position:absolute; text-align:center; background:#F3F3F3; border:1px solid #878787; text-decoration:none; outline:none;}
 
-a.tooltip2 span {display:none; padding:1px; margin-left:-57px; margin-top:-122px; text-decoration:none; outline:none;}
+a.tooltip2 span {display:none; padding:1px; margin-left:-200px; margin-top:-170px; text-decoration:none; outline:none;}
 a.tooltip2:hover span{display:inline; position:absolute; text-align:center; background:#E3E3E3; border:1px solid #878787; text-decoration:none; outline:none;}
 
 .formbutton {
