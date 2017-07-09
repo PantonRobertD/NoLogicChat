@@ -167,7 +167,8 @@ function closechat()
 		</table>
 	</div>
 
-	<div style=" height:160px"><?php echo $chatS->chatForm().jsTexts($lsite); ?></div>
+	<!-- Lower Chat Region for emojis, and chat functions -->
+	<div id="chatfunctions" style=" height:160px"><?php echo $chatS->chatForm().jsTexts($lsite); ?></div>
 
 	<script type="text/javascript" src="chatfiles/chatfunctions.js"></script>
 
