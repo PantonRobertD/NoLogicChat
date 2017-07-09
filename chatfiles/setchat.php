@@ -1,6 +1,6 @@
 <?php
 
-define('MAXROWS', 30);     // Maximum number of rows registered for chat
+define('MAXROWS', 30000);     // Maximum number of rows registered for chat
 define('CHATLINK', 1);     // allows links in texts (1), not allow (0)
 
 // Here create the room for chat
