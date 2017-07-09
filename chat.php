@@ -129,7 +129,7 @@ function closechat()
 		<div style="height:40px">
 			<table border="0" width="100%">
 				<tr>
-					<td width="220">&nbsp;&nbsp;<img src="images/chaticon1.png" height="37" align="absmiddle"  border="0"/>&nbsp;&nbsp;<font size="5" color="#DADADA" face="Arial, Helvetica, sans-serif"><b>NoLogic</b></font></td>
+					<td width="220">&nbsp;&nbsp;<img src="images/NLRlogo48.jpg" height="37" align="absmiddle"  border="0"/>&nbsp;&nbsp;<font size="5" color="#DADADA" face="Arial, Helvetica, sans-serif"><b>NoLogic</b></font></td>
 					<td alt=" Sound On/Off " title=" Sound On/Off " style="cursor:pointer" onclick="setPlayBeep(playbeep)" onMouseOver="this.style.background='#8598C0'" onMouseOut="this.style.background=''" width="60"><img src="sound/playbeep2.png" align="absmiddle" height="23" border="0"  name="playbeep" id="playbeep" /><span id="chatbeep"></span></td>
 					<td alt=" go Offline " title=" go Offline " style="cursor:pointer" onclick="delCookie('name_c')" onMouseOver="this.style.background='#8598C0'" onMouseOut="this.style.background=''" align="center" width="60"><img src="images/offline.png"   height="27"  border="0" align="absmiddle"/></td>
 					
