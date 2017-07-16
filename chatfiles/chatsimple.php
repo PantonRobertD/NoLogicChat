@@ -155,7 +155,6 @@ class ChatSimple {
 		$adchat = str_replace('*UpL-e7a3*','<img src="' .$show_file2. '" alt="Upload" >',$adchat);
 		
 		 $adchat = str_replace('*z2*','<img src="images/smile/z2.gif">',$adchat);
-         $adchat = str_replace('*z3*','<img src="images/smile/z3.gif">',$adchat);
          $adchat = str_replace('*z1*','<img src="images/smile/z1.gif">',$adchat);
 		 $adchat = str_replace('*z4*','<img src="images/smile/z4.gif">',$adchat);
          $adchat = str_replace('*z5*','<img src="images/smile/z5.gif">',$adchat);
@@ -167,16 +166,14 @@ class ChatSimple {
          $adchat = str_replace('*z15*','<img src="images/smile/z15.gif">',$adchat);
          $adchat = str_replace('*z16*','<img src="images/smile/z16.gif">',$adchat);
 	     $adchat = str_replace('*ca*','<img src="images/smile/ca.gif">',$adchat);
-         $adchat = str_replace('*cb*','<img src="images/smile/cb.gif">',$adchat);
+         $adchat = str_replace('*b5*','<img src="images/smile/b5.gif">',$adchat);
          $adchat = str_replace('*z8*','<img src="images/smile/z8.gif">',$adchat);
 		 $adchat = str_replace('*z9*','<img src="images/smile/z9.gif">',$adchat);
          $adchat = str_replace('*l28*','<img src="images/smile/l28.gif">',$adchat);
-         $adchat = str_replace('*z11*','<img src="images/smile/z11.gif">',$adchat);
-		 $adchat = str_replace('*c1*','<img src="images/smile/c1.gif">',$adchat);
+         $adchat = str_replace('*c1*','<img src="images/smile/c1.gif">',$adchat);
          $adchat = str_replace('*c2*','<img src="images/smile/c2.gif">',$adchat);
          $adchat = str_replace('*c3*','<img src="images/smile/c3.gif">',$adchat);
 		 $adchat = str_replace('*c4*','<img src="images/smile/c4.gif">',$adchat);
-         $adchat = str_replace('*c5*','<img src="images/smile/c5.gif">',$adchat);
          $adchat = str_replace('*c6*','<img src="images/smile/c6.gif">',$adchat);
 		 $adchat = str_replace('*c7*','<img src="images/smile/c7.gif">',$adchat);
          $adchat = str_replace('*c8*','<img src="images/smile/c8.gif">',$adchat);
@@ -207,8 +204,7 @@ class ChatSimple {
          $adchat = str_replace('*l10*','<img src="images/smile/l10.gif">',$adchat);
 		 $adchat = str_replace('*l11*','<img src="images/smile/l11.gif">',$adchat);
 		 $adchat = str_replace('*l12*','<img src="images/smile/l12.gif">',$adchat);
-		 $adchat = str_replace('*l13*','<img src="images/smile/l13.gif">',$adchat);
-         $adchat = str_replace('*l14*','<img src="images/smile/l14.gif">',$adchat);
+		 $adchat = str_replace('*l14*','<img src="images/smile/l14.gif">',$adchat);
          $adchat = str_replace('*l15*','<img src="images/smile/l15.gif">',$adchat);
          $adchat = str_replace('*l16*','<img src="images/smile/l16.gif">',$adchat);
          $adchat = str_replace('*l17*','<img src="images/smile/l17.gif">',$adchat);
@@ -231,7 +227,8 @@ class ChatSimple {
 		 $adchat = str_replace('*a8*','<img src="images/smile/a8.gif">',$adchat);
 		 $adchat = str_replace('*a9*','<img src="images/smile/a9.gif">',$adchat);
 		 $adchat = str_replace('*l5*','<img src="images/smile/l5.gif">',$adchat);
-		 
+		 $adchat = str_replace('*l30*','<img src="images/smile/l30.gif">',$adchat);
+		 $adchat = str_replace('*l131*','<img src="images/smile/l131.gif">',$adchat);
 		 
 		 
 		 
